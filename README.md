@@ -19,15 +19,6 @@ Cada ejercicio aborda un problema distinto, desde procesamiento de cadenas hasta
 6. **Ejercicio 6**: Separar personajes humanos y no humanos de una lista.
 7. **Ejercicio 7**: Añadir ítems únicos a un inventario con manejo de errores.
 
----
-
-## 🛠️ Cómo Usar
-
 ### Requisitos
 - **Python 3.6+**  
 - No se requieren librerías externas.
-
-### Ejecución
-1. Clona el repositorio:
-   ```bash
-   git clone [URL_DEL_REPOSITORIO]
